@@ -18,7 +18,7 @@ date:'Aug 6,2017',
                 this is the content for my first article.this is the content for my first article.this is the content for my first article.this is the content for my first article.this is the content for my first article.this is the content for my first article.this is the content for my first article.
             </p>`
 };
-function ceateTemplate(data){
+function createTemplate(data){
     var title=data.title;
     var date=data.date;
     var heading=data.heading;
