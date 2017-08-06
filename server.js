@@ -29,7 +29,7 @@ date:'Aug 7,2017',
 'article-three':{
     title:'Article Three | Asif',
 heading:'Article Three',
-date:'Aug ,2017',
+date:'Aug 8,2017',
     content:` <p>
                 this is the content for my third article.
                 </p>`}
